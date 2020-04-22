@@ -4,7 +4,7 @@
    		  
        
            
-          <table border=1 width="99%" bgcolor="FFFFFF">
+          <table border=2 width="99%" bgcolor="FFFFFF">
                <tr>
                     <td nowrap><small><b>PROD_ORD_NO<b></small></td>
                     <td nowrap> <cfinput type ="text" style="width:200"  name="prodordno" size="40" required="yes" message="Production Order Number Required" ></td>
